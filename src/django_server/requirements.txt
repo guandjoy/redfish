@@ -39,7 +39,7 @@ Pygments==2.4.2
 python-dateutil==2.8.0
 python3-openid==3.1.0
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 requests==2.22.0
 requests-oauthlib==1.2.0
 Rx==1.6.1
