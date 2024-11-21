@@ -31,7 +31,7 @@ Jinja2==2.10.1
 jmespath==0.9.4
 MarkupSafe==1.1.1
 oauthlib==3.0.2
-Pillow==6.1.0
+Pillow==9.3.0
 pip-upgrade-outdated==1.5
 promise==2.2.1
 psycopg2==2.7.7
